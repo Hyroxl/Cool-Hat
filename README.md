@@ -1,2 +1,2 @@
-# java-tests
-some java tests
+# Cool-Hat
+we have cool hats! do you?
